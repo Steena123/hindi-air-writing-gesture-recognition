@@ -55,7 +55,7 @@ hindi-air-writing-gesture-recognition/
 
 The proposed PointNet++ model was compared with several existing gesture recognition techniques.
 
-![Performance Comparison](images/model_comparison_table.png)
+![Performance Comparison](image/model_comparison_table.png)
 
 ---
 
