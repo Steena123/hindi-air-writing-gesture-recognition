@@ -49,13 +49,6 @@ hindi-air-writing-gesture-recognition/
 ├── LICENSE
 └── .gitignore
 ```
-
----
-
-# System Architecture
-
-![System Architecture](images/system_architecture.png)
-
 ---
 
 # Performance Comparison
